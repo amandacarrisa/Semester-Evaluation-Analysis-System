@@ -1,3 +1,9 @@
+(Original repo in description)
+
+Employed Django framework to develop an advanced university evaluation system featuring customized graphs and file parsing capabilities. Took responsibility for web design, model creation, and database maintenance throughout the project.
+
+
+
 # EDOM-NG Backend
 
 [![pipeline status](https://gitlab.com/semoga-ppl-a/edom-backend/badges/main/pipeline.svg)](https://gitlab.cs.ui.ac.id/semoga-ppl-a/edom-backend/-/commits/main) [![coverage report](https://gitlab.com/semoga-ppl-a/edom-backend/badges/main/coverage.svg)](https://gitlab.ui.ac.id/semoga-ppl-a/edom-backend/-/commits/main)
